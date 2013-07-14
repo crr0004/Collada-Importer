@@ -1,0 +1,7 @@
+The naming scheme used for showing what the shader will do.
+
+V - Handles basic vertices geometry
+C - Handles colour input for each vertex
+N - Handles basic normals for each vertex
+T - Handles basic textuing for each vertex
+I - Uses V/N/C/T indexing
